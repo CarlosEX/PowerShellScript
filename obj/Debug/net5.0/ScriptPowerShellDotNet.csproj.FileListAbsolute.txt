@@ -1,0 +1,12 @@
+/home/carlos/Documentos/ScriptPowerShellDotNet/bin/Debug/net5.0/ScriptPowerShellDotNet.deps.json
+/home/carlos/Documentos/ScriptPowerShellDotNet/bin/Debug/net5.0/ScriptPowerShellDotNet.dll
+/home/carlos/Documentos/ScriptPowerShellDotNet/bin/Debug/net5.0/ref/ScriptPowerShellDotNet.dll
+/home/carlos/Documentos/ScriptPowerShellDotNet/bin/Debug/net5.0/ScriptPowerShellDotNet.pdb
+/home/carlos/Documentos/ScriptPowerShellDotNet/obj/Debug/net5.0/ScriptPowerShellDotNet.csprojAssemblyReference.cache
+/home/carlos/Documentos/ScriptPowerShellDotNet/obj/Debug/net5.0/ScriptPowerShellDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/ScriptPowerShellDotNet/obj/Debug/net5.0/ScriptPowerShellDotNet.AssemblyInfoInputs.cache
+/home/carlos/Documentos/ScriptPowerShellDotNet/obj/Debug/net5.0/ScriptPowerShellDotNet.AssemblyInfo.cs
+/home/carlos/Documentos/ScriptPowerShellDotNet/obj/Debug/net5.0/ScriptPowerShellDotNet.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/ScriptPowerShellDotNet/obj/Debug/net5.0/ScriptPowerShellDotNet.dll
+/home/carlos/Documentos/ScriptPowerShellDotNet/obj/Debug/net5.0/ref/ScriptPowerShellDotNet.dll
+/home/carlos/Documentos/ScriptPowerShellDotNet/obj/Debug/net5.0/ScriptPowerShellDotNet.pdb

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cison.PowerShell.Script</id>
+    <version>1.0.0</version>
+    <authors>Carlos Antonio</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/CarlosEX/PowerShellScript</projectUrl>
+    <description>Class for PowerShell scrip</description>
+    <releaseNotes>Release</releaseNotes>
+    <copyright>Carlos Antonio, Cison.NET</copyright>
+    <tags>CisonPowerShell,PowerShellScript</tags>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Microsoft.PowerShell.Commands.Management" version="7.1.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.PowerShell.Commands.Utility" version="7.1.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.PowerShell.ConsoleHost" version="7.1.3" exclude="Build,Analyzers" />
+        <dependency id="System.Management.Automation" version="7.1.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/carlos/Documentos/ScriptPowerShellDotNet/bin/Debug/net5.0/ScriptPowerShellDotNet.dll" target="lib/net5.0/ScriptPowerShellDotNet.dll" />
+  </files>
+</package>
